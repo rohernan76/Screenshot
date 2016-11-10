@@ -14,25 +14,24 @@
 	}
 
 	.c1 {
-		width: 270px;
+		width: 30%;
 		padding: 20px;
 	}
 
 	.c2 {
-		width: 820px;
+		width: : 45%;
 		padding: 20px;
 	}
 
 	img {
-		width: inherit;
-		height: 350px;
+		width: 100%;
 		padding: 0px;
 		display: block;
 		margin: 8px;
 	}	
 
 	.c3 {
-		width: 220px;
+		width: 25%;
 		padding: 20px;
 	}
 
